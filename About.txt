@@ -1,0 +1,11 @@
+The API code for this demo I found on he web and was so impressed
+by it that I thought I would share it with others by creating this
+Demo.
+
+If this particular code doesn't work for you, there are thousands
+of lines of similar code on the web.
+
+Play with this code and see how the Left, Top, Height, and Width settings 
+affect the form's layout and positioning.
+
+Enjoy!, Danny
